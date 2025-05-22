@@ -1,9 +1,9 @@
-// check armstrong or not
+// This code checks if a number is an Armstrong number or not.
 
-                            
+
 #include <bits/stdc++.h> 
+#include <iostream>
 using namespace std;
-
 
 bool isArmstrong(int num) {
    
